@@ -58,7 +58,7 @@ Cada aula vem com slides e explicações em linguagem acessível.
 
 ## 🌟 Porque essa mentoria é diferente?
 
-> “Testar é um ato de amor pelo usuário. É garantir que ninguém vai passar perrengue por um erro que você podia ter evitado.” – Aline Edvania
+> “Testar é um ato de amor pelo usuário. É garantir que ninguém vai passar perrengue por um erro que você podia ter evitado.”
 
 Essa mentoria não é só sobre testes.  
 É sobre resgatar a autoestima, sobre vencer o medo do “não sei”,  
